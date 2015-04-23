@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "iconv-lite": "^0.4.8",
+    "mongodb": "^2.0.27",
+    "q": "^1.2.0"
+  }
+}
